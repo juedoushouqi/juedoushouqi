@@ -1,19 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- @jeqps Sign out
-0
-0 0 jeqps/jeqps
- Code  Issues 1  Pull requests 0  Projects 0  Wiki  Insights  Settings
-jeqps/ 
-privacy.md
-  or cancel
-    
  
 1
 #   隐私策略
@@ -109,27 +94,3 @@ privacy.md
 ​
 47
 (2) 软件信息。例如，软件的版本号、浏览器类型。为确保操作环境的安全或提供服务所需，我们会收集有关您使用的移动应用和其他软件的信息。
-48
-​
-@jeqps
-Commit changes
-
-Update privacy.md
-
-Add an optional extended description…
-  Commit directly to the master branch.
-  Create a new branch for this commit and start a pull request. Learn more about pull requests.
- 
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
